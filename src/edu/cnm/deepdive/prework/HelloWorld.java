@@ -8,7 +8,7 @@ public class HelloWorld {
   }
 
   private static void salute(String target){
-    System.out.println("Hello, " + target + "!");
+    System.out.println("Hello, " + target + "1");
   }
 
 }
